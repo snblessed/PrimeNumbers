@@ -1,0 +1,10 @@
+C:\CODE\CodeChallenge\CodeChallenge.Repository\bin\Debug\CodeChallenge.Repository.dll
+C:\CODE\CodeChallenge\CodeChallenge.Repository\bin\Debug\CodeChallenge.Repository.pdb
+C:\CODE\CodeChallenge\CodeChallenge.Repository\obj\Debug\CodeChallenge.Repository.dll
+C:\CODE\CodeChallenge\CodeChallenge.Repository\obj\Debug\CodeChallenge.Repository.pdb
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.Repository\bin\Debug\CodeChallenge.Repository.dll
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.Repository\bin\Debug\CodeChallenge.Repository.pdb
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.Repository\obj\Debug\CodeChallenge.Repository.csprojAssemblyReference.cache
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.Repository\obj\Debug\CodeChallenge.Repository.csproj.CoreCompileInputs.cache
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.Repository\obj\Debug\CodeChallenge.Repository.dll
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.Repository\obj\Debug\CodeChallenge.Repository.pdb

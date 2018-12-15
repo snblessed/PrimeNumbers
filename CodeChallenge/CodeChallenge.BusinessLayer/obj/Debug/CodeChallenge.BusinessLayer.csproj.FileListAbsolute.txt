@@ -1,0 +1,16 @@
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.BusinessLayer.dll
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.BusinessLayer.pdb
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.Repository.dll
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.Repository.pdb
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.dll
+C:\CODE\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.pdb
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.BusinessLayer.dll
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.BusinessLayer.pdb
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.Repository.dll
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\bin\Debug\CodeChallenge.Repository.pdb
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.csprojAssemblyReference.cache
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.csproj.CopyComplete
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.dll
+C:\CODE\GitHub\PrimeNumbers\CodeChallenge\CodeChallenge.BusinessLayer\obj\Debug\CodeChallenge.BusinessLayer.pdb
